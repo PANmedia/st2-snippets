@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<cms:block owner="${1:owner}" key="${2:key}">
+    ${3:content}
+</cms:block>
+]]></content>
+    <tabTrigger><![CDATA[<cms]]></tabTrigger>
+</snippet>
