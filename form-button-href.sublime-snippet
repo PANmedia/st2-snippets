@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<?= \$form->button('${1:label}')->href('${2:href}')->('${3:icon}'); ?>
+]]></content>
+    <tabTrigger>mm-bh</tabTrigger>
+</snippet>

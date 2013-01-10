@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<?php ${1:statusInputVariableName} = \$form->select('${2:name}')->label('${3:label}'); ?>
+<?php ${4:statusesVariableName} = ['${5:Active}', '${6:Inactive}', '${7:Deleted}']; ?>
+<?php ${1:statusInputVariableName}->options(array_combine(${4:statusesVariable}, ${4:statusesVariable})); ?>
+<?= ${1:statusInputVariableName}->value(${8:value}); ?>
+]]></content>
+    <tabTrigger>mm-siaid</tabTrigger>
+</snippet>

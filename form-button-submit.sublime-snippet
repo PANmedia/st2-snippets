@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<?= \$form->submit('${1:label}')->icon('${2:icon}'); ?>
+]]></content>
+    <tabTrigger>mm-bs</tabTrigger>
+</snippet>

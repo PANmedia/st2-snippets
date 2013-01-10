@@ -4,5 +4,5 @@
     ${3:content}
 </cms:block>
 ]]></content>
-    <tabTrigger><![CDATA[<cms]]></tabTrigger>
+    <tabTrigger>mm-cms</tabTrigger>
 </snippet>
