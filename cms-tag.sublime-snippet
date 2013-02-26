@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<cms:tag owner="${1:owner}" key="${2:key}" tagName="${3:tagName}">
+    ${4:content}
+</cms:tag>
+]]></content>
+    <tabTrigger>mm-cmst</tabTrigger>
+</snippet>
