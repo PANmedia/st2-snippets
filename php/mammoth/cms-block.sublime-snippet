@@ -4,5 +4,6 @@
     ${3:content}
 </cms:block>
 ]]></content>
-    <tabTrigger>mm-cms</tabTrigger>
+    <tabTrigger>mcms</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

@@ -4,5 +4,6 @@
     ${4:content}
 </cms:tag>
 ]]></content>
-    <tabTrigger>mm-cmst</tabTrigger>
+    <tabTrigger>mcmst</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

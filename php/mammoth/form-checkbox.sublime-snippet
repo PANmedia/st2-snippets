@@ -2,5 +2,6 @@
     <content><![CDATA[
 <?= \$form->checkbox('${1:name}')->label('${2:label}')->value(${3:value})->checked(${4:checked}); ?>
 ]]></content>
-    <tabTrigger>mm-cb</tabTrigger>
+    <tabTrigger>mcb</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

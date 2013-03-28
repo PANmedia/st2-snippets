@@ -2,5 +2,6 @@
     <content><![CDATA[
 <?= \$form->submit('${1:label}')->icon('${2:icon}'); ?>
 ]]></content>
-    <tabTrigger>mm-bs</tabTrigger>
+    <tabTrigger>mbs</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

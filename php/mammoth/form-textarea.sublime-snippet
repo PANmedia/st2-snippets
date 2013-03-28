@@ -2,5 +2,6 @@
     <content><![CDATA[
 <?= \$form->textarea('${1:name}')->label('${2:label}')->html(${3:content})->placeholder('${4:placeholder}'); ?>
 ]]></content>
-    <tabTrigger>mm-ta</tabTrigger>
+    <tabTrigger>mta</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

@@ -2,5 +2,6 @@
     <content><![CDATA[
 <?= \$form->textfield('${1:name}')->label('${2:label}')->value(${3:value})->placeholder('${4:placeholder}'); ?>
 ]]></content>
-    <tabTrigger>mm-tf</tabTrigger>
+    <tabTrigger>mtf</tabTrigger>
+    <scope>source.php</scope>
 </snippet>

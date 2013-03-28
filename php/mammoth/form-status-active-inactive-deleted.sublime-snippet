@@ -5,5 +5,6 @@
 <?php ${1:statusInputVariableName}->options(array_combine(${4:statusesVariable}, ${4:statusesVariable})); ?>
 <?= ${1:statusInputVariableName}->value(${8:value}); ?>
 ]]></content>
-    <tabTrigger>mm-siaid</tabTrigger>
+    <tabTrigger>msiaid</tabTrigger>
+    <scope>source.php</scope>
 </snippet>
