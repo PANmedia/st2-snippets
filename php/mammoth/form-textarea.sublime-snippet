@@ -2,6 +2,7 @@
     <content><![CDATA[
 <?= \$form->textarea('${1:name}')->label('${2:label}')->html(${3:content})->placeholder('${4:placeholder}'); ?>
 ]]></content>
-    <tabTrigger>mta</tabTrigger>
+    <tabTrigger>mfta</tabTrigger>
     <scope>source.php</scope>
+    <description>Create a Mammoth textarea</description>
 </snippet>

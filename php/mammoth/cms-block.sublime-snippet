@@ -4,6 +4,7 @@
     ${3:content}
 </cms:block>
 ]]></content>
-    <tabTrigger>mcms</tabTrigger>
-    <scope>source.php</scope>
+    <tabTrigger>mcmsb</tabTrigger>
+    <scope>text.html</scope>
+    <description>Create a Mammoth CMS block</description>
 </snippet>

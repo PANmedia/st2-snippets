@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<cms:page>
+    ${1:content}
+</cms:page>
+]]></content>
+    <tabTrigger>mcmsp</tabTrigger>
+    <scope>text.html</scope>
+    <description>Create a Mammoth CMS page block</description>
+</snippet>

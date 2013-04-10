@@ -2,6 +2,7 @@
     <content><![CDATA[
 <?= \$form->submit('${1:label}')->icon('${2:icon}'); ?>
 ]]></content>
-    <tabTrigger>mbs</tabTrigger>
+    <tabTrigger>mfbs</tabTrigger>
     <scope>source.php</scope>
+    <description>Create a Mammoth submit button</description>
 </snippet>

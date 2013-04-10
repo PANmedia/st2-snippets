@@ -2,6 +2,7 @@
     <content><![CDATA[
 <?= \$form->button('${1:label}')->href('${2:href}')->('${3:icon}'); ?>
 ]]></content>
-    <tabTrigger>mbh</tabTrigger>
+    <tabTrigger>mfba</tabTrigger>
     <scope>source.php</scope>
+    <description>Create a Mammoth anchor button</description>
 </snippet>

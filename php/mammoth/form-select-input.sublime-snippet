@@ -5,6 +5,7 @@
 <?php ${1:statusInputVariableName}->options(array_combine(${4:statusesVariable}, ${4:statusesVariable})); ?>
 <?= ${1:statusInputVariableName}->value(${6:value}); ?>
 ]]></content>
-    <tabTrigger>msi</tabTrigger>
+    <tabTrigger>mfsi</tabTrigger>
     <scope>source.php</scope>
+    <description>Create a Mammoth select input</description>
 </snippet>
