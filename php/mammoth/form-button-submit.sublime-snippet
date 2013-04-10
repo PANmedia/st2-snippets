@@ -3,6 +3,6 @@
 <?= \$form->submit('${1:label}')->icon('${2:icon}'); ?>
 ]]></content>
     <tabTrigger>mfbs</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth submit button</description>
 </snippet>

@@ -6,6 +6,6 @@
 <?= ${1:statusInputVariableName}->value(${6:value}); ?>
 ]]></content>
     <tabTrigger>mfsi</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth select input</description>
 </snippet>

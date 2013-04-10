@@ -3,6 +3,6 @@
 <?= \$form->checkbox('${1:name}')->label('${2:label}')->value(${3:value})->checked(${4:checked}); ?>
 ]]></content>
     <tabTrigger>mfcb</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth checkbox</description>
 </snippet>

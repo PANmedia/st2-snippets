@@ -3,6 +3,6 @@
 <?= \$form->button('${1:label}')->href('${2:href}')->('${3:icon}'); ?>
 ]]></content>
     <tabTrigger>mfba</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth anchor button</description>
 </snippet>

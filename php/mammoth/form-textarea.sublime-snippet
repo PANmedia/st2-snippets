@@ -3,6 +3,6 @@
 <?= \$form->textarea('${1:name}')->label('${2:label}')->html(${3:content})->placeholder('${4:placeholder}'); ?>
 ]]></content>
     <tabTrigger>mfta</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth textarea</description>
 </snippet>

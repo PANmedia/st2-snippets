@@ -6,6 +6,6 @@
 <?= ${1:statusInputVariableName}->value(${8:value}); ?>
 ]]></content>
     <tabTrigger>mfss</tabTrigger>
-    <scope>source.php</scope>
+    <scope>text.html</scope>
     <description>Create a Mammoth select input with Active, Inactive & Deleted options</description>
 </snippet>
